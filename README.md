@@ -24,4 +24,4 @@ My version of netdiscover
 - Python3 compatible
 
 # Usage
-- python network_scanner.py -i <IP address here>
+- python network_scanner.py -i (IP address here)
